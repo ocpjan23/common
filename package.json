@@ -63,7 +63,7 @@
     ]
   },
   "publishConfig": {
-    "ocpjan23:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@ocpjan23"
   },
   "name": "@ocpjan23/common"
 }
