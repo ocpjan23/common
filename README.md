@@ -51,5 +51,5 @@ To test the library
 
 ## 👨‍💻 Author
 ### 👤 Christian Paul Oller
-- Github: [@ashish](https://github.com/ocpjan23)
+- Github: [@ocpjan23](https://github.com/ocpjan23)
 - Mail: [Christian Paul Oller](mailto:christianpauloller@gmail.com)
