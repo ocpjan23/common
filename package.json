@@ -1,5 +1,4 @@
 {
-  "name": "common",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -62,5 +61,9 @@
       "npm run lint",
       "npm run test"
     ]
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ocpjan23"
+  },
+  "name": "common"
 }
